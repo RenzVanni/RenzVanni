@@ -12,11 +12,31 @@
 - ⚡ Fun fact **I usually listen to music**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <p align="left"> -->
 <a href="https://linkedin.com/in/renz vanni bato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renz vanni bato" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3 align="center">Languages and Tools:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=renzvanni&show_icons=true&locale=en&layout=compact" alt="renzvanni" /></p>
+<p align="center">
+<img width=35 src="https://github.com/user-attachments/assets/e870b591-f440-49c5-a03a-cb1aa0537743"/>
+<img width=35 src="https://github.com/user-attachments/assets/6b3b8696-a861-4599-b9e2-787f5b0f7695"/>
+  
+<img width=35 src="https://github.com/user-attachments/assets/29f09d86-56a4-4961-8464-d563999dd1a8"/>
+<img width=35 src="https://github.com/user-attachments/assets/579910ec-9f7f-4819-a74e-8fe1b2dbf9fe"/>
+<img width=35 src="https://github.com/user-attachments/assets/1477efc2-43ea-43de-abe7-4ea734354b4f"/>
+<img width=35 src="https://github.com/user-attachments/assets/0920a200-7961-4ac8-821a-0c4e516f1a2f"/>
+<img width=35 src="https://github.com/user-attachments/assets/fca5e72c-68b7-43f8-a54d-e2dfe472644c"/>
+  
+<img width=35 src="https://github.com/user-attachments/assets/b1ce3ea5-1ef8-4d42-a26a-225a16ca451b"/>
+<img width=35 src="https://github.com/user-attachments/assets/4c0a4251-38cc-42db-940b-ef1ff98b1524"/>
+
+<img width=35 src="https://github.com/user-attachments/assets/1d18b6a5-6e20-4045-b024-615364dc0ed6"/>
+
+<img width=35 src="https://github.com/user-attachments/assets/e639f04d-31a6-46c6-8403-d9a2e9dde333"/>
+<img width=35 src="https://github.com/user-attachments/assets/9d8e3495-1800-4f95-84fa-c5837cb38ff5"/>
+<img width=35 src="https://github.com/user-attachments/assets/ee806469-17e1-44a0-8bfa-d3059225bbd3"/>
+<img width=35 src="https://github.com/user-attachments/assets/cd074ba9-7766-4b68-8592-6f6a894fa714"/>
+</p>
+
+
